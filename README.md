@@ -1,15 +1,17 @@
 # scannify
 
-Scannify is a leightweight network scanner.
-The Scanner will Display the targets IP and Mac Adress.
+Scannify is a leightweight network scanner.<br>
+The Scanner will Display the targets IP and Mac Adress.<br>
 For OS detection use nmap.
 
-Requirements
-Python 2.7
-Termcolor
-Scapy
+<strong>Requirements<br></strong>
+Python 2.7<br>
+Termcolor<br>
+Scapy<br>
+Optparse
   
-Usage
+
+<strong>Usage<br></strong>
 python scannify.py -t targetip.1/24
   
   
